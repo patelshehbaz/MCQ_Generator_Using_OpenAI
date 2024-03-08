@@ -18,7 +18,8 @@ git clone https://github.com/patelshehbaz/MCQ_Generator_Using_OpenAI.git
 
 ## To Run
 
-```streamlit run app.py
+```
+streamlit run app.py
 
 ```
 
